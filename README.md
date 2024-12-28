@@ -62,7 +62,7 @@
  
 
   
-<a href="https://github.com/Milanoscarda2/Bruceleee/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-white" alt="FORK BRUCELYNE" width="150"></a>
+<a href="https://github.com/Milanoscarda2/Brucelyne/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-white" alt="FORK BRUCELYNE" width="150"></a>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -105,13 +105,6 @@
 - 𝔸𝕝𝕝 𝕗𝕦𝕟𝕔𝕥𝕚𝕠𝕟𝕚𝕟𝕘 𝕠𝕗 𝕥𝕙𝕖 𝕓𝕠𝕥 𝕨𝕠𝕣𝕜𝕤 𝕠𝕜𝕒𝕪 𝕘𝕖𝕥 𝕤𝕖𝕤𝕤𝕚𝕠𝕟 𝕝𝕕 𝕕𝕖𝕝𝕡𝕠𝕪 𝕒𝕟𝕕 𝕙𝕒𝕧𝕖 𝕒 𝕟𝕚𝕔𝕖 𝕗𝕦𝕟𝕔𝕥𝕚𝕠𝕟𝕚𝕟𝕘 𝕠𝕗 𝕥𝕙𝕖 𝕓𝕠𝕥.
 
 </details>
-
-
-**👇FORK REPO**
-## HOW TO GET BRUCELYNE 
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
  
 
 ><img src='https://i.imgur.com/LyHic3i.gif'/></a>
